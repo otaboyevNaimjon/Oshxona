@@ -1,0 +1,78 @@
+.h1{
+    font-family: cursive;
+}
+
+.cards{
+    width: 400px;
+    /* margin-left: 10px; */
+}
+
+.card__h2{
+font-family:cursive ;
+}
+
+.card{
+    width: 350px;
+}
+
+.h4{
+    background-color: white;
+    width: 50px;
+    box-shadow: 0px 0px 3px 0px;
+    text-align: center;
+}
+
+.header{
+    /* width: 100vw; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.chair{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    background-color:#ffffff ;
+    box-shadow: 0px 0px 10px;
+}
+.dishes{
+    margin-top: 15px;
+    width: 300px;
+    height: 80px;
+    background-color: #D4A068;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    border-radius:14px ;
+    transition: 0.4s;
+}
+
+.dishes:hover{
+    background-color: #6B3C08;
+    transition: 0.4s;
+}
+
+.dishes img{
+    margin-left: 15px;
+    width: 73px;
+    height: 53px;
+    border-radius: 10px;
+}
+.chair{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    background-color:#ffffff;
+    box-shadow: 0px 0px 10px;
+}
+.chair h3{
+    font-size: 35px;
+    font-family:cursive;
+    margin-left: 15px;
+}
+.dishes h2{
+    font-family:cursive;
+    margin-left: 15px;
+    font-size: 35px;
+}

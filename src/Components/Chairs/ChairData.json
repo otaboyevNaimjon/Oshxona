@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "img": "./images/chair.png",
+        "order": []
+    },
+    {
+        "id": 2,
+        "img": "./images/chair.png",
+        "order": []
+    },
+    {
+        "id": 3,
+        "img": "./images/chair.png",
+        "order": []
+    },
+    {
+        "id": 4,
+        "img": "./images/chair.png",
+        "order": []
+    },
+    {
+        "id": 5,
+        "img": "./images/chair.png",
+        "order": []
+    },
+    {
+        "id": 6,
+        "img": "./images/chair.png",
+        "order": []
+    },
+    {
+        "id": 7,
+        "img": "./images/chair.png",
+        "order": []
+    },
+    {
+        "id": 8,
+        "img": "./images/chair.png",
+        "order": []
+    },
+    {
+        "id": 9,
+        "img": "./images/chair.png",
+        "order": []
+    },
+    {
+        "id": 10,
+        "img": "./images/chair.png",
+        "order": []
+    },
+    {
+        "id": 11,
+        "img": "./images/chair.png",
+        "order": []
+    },
+    {
+        "id": 12,
+        "img": "./images/chair.png",
+        "order": []
+    }
+]
